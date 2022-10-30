@@ -1,0 +1,17 @@
+{
+  "name": "test-automation",
+  "version": "1.0.0",
+  "description": "Added E2E, integration and API test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Umair Hassan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.0.0",
+    "faker": "^5.5.3",
+    "mochawesome": "^7.0.1",
+    "random-country-name": "^1.0.3"
+  }
+}
